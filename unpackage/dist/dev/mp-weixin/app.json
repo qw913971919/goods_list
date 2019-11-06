@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/shopping/shopping"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "简单的商品页",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#26a2ff"
+  },
+  "usingComponents": {}
+}
